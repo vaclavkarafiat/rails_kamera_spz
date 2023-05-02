@@ -145,3 +145,10 @@ Processing by Rails::WelcomeController#index as HTML
 Completed 200 OK in 15ms (Views: 3.7ms | ActiveRecord: 0.0ms | Allocations: 4192)
 
 
+Started GET "/" for ::1 at 2023-05-02 20:03:04 +0200
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/vaclavkarafiat/.asdf/installs/ruby/3.1.3/lib/ruby/gems/3.1.0/gems/railties-7.0.4.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/vaclavkarafiat/.asdf/installs/ruby/3.1.3/lib/ruby/gems/3.1.0/gems/railties-7.0.4.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.6ms | Allocations: 529)
+Completed 200 OK in 12ms (Views: 4.9ms | ActiveRecord: 0.0ms | Allocations: 3759)
+
+
